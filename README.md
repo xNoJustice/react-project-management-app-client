@@ -1,3 +1,9 @@
+<img src="https://github.com/xNoJustice/react-project-management-app-client/blob/fc8ce3378c28eab3319c436266e051dc6b854d4b/management1.png" />
+
+<img src="https://github.com/xNoJustice/react-project-management-app-client/blob/fc8ce3378c28eab3319c436266e051dc6b854d4b/management2.png" />
+
+<img src="https://github.com/xNoJustice/react-project-management-app-client/blob/fc8ce3378c28eab3319c436266e051dc6b854d4b/management3.png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
